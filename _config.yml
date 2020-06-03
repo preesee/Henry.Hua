@@ -1,8 +1,3 @@
-# Extensions
-## Plugins: http://hexo.io/plugins/
-## Themes: http://hexo.io/themes/
-theme: clean-blog
-
 # Header
 menu:
   Home: /
@@ -17,7 +12,7 @@ menu:
 menu_title: Configurable Title
 
 # URL of the Home page image
-index_cover: /img/home-bg.jpg
+index_cover: http://www.codeblocq.com/assets/projects/hexo-theme-clean-blog/img/home-bg.jpg
 
 # Default post title
 default_post_title: Untitled
@@ -45,7 +40,7 @@ favicon:
 twitter_url:
 twitter_handle:
 facebook_url:
-github_url: https://github.com/preesee/
+github_url: https://github.com/klugjo/hexo-theme-clean-blog
 gitlab_url:
 linkedin_url:
-mailto: why123@163.com
+mailto:
